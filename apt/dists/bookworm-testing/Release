@@ -1,0 +1,20 @@
+Origin: WireGuard System
+Label: WireGuard System Testing
+Suite: testing
+Codename: bookworm-testing
+Date: Tue, 13 Oct 2026 13:31:12 UTC
+Architectures: amd64
+Components: main
+Description: WireGuard System signed technical candidates
+MD5Sum:
+ e6fd7f65ab98bdc38df3077b1dcf35b7 932 main/binary-amd64/Packages
+ 7ac89b04c81d587d174969cb43eba331 594 main/binary-amd64/Packages.gz
+ add73b846c5e2f6a5e24326cf3b3f87c 168 main/binary-amd64/Release
+SHA1:
+ 86c5cd57035cad0f4dee3032e9423fee9804590a 932 main/binary-amd64/Packages
+ 990041cff1ea955e4ab0d32b28ae662037cd05fc 594 main/binary-amd64/Packages.gz
+ 7b3cb366216634d676df6b460585335e34a828ac 168 main/binary-amd64/Release
+SHA256:
+ b17a18ebac71374a849b9041c0f3e059484acf8fa7bc4fef0d29ce9f414cf9b4 932 main/binary-amd64/Packages
+ eacb7101ec62fdcbfd5f69a484015ec0b2daaa8347cb8e693acf9ed934150caa 594 main/binary-amd64/Packages.gz
+ 579ae0f7a11d5cbc037ee5eea1bfc606cd87be19a98502c94787df56de37872a 168 main/binary-amd64/Release

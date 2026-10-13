@@ -1,0 +1,6 @@
+Archive: testing
+Component: main
+Origin: WireGuard System
+Label: WireGuard System Testing
+Architecture: amd64
+Description: WireGuard System signed technical candidates

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>WireGuard System APT repository</title></head>
+<body>
+<h1>WireGuard System APT repository</h1>
+<p>Distribution: <code>bookworm-testing</code></p>
+<p>OpenPGP fingerprint: <code>2B3CFA6779E395C0CDA208B7AE7A30DC2F970ACF</code></p>
+<p>Verify this fingerprint through an independent maintainer channel before trusting it.</p>
+<pre>curl --fail --silent --show-error --location --remote-name \
+  https://paolotreu-lsilastem.github.io/apt/wireguard-system-archive-keyring.gpg
+gpg --show-keys --with-fingerprint wireguard-system-archive-keyring.gpg
+sudo install -o root -g root -m 0644 wireguard-system-archive-keyring.gpg \
+  /usr/share/keyrings/wireguard-system-archive-keyring.gpg
+curl --fail --silent --show-error --location --remote-name \
+  https://paolotreu-lsilastem.github.io/apt/wireguard-system.sources
+sudo install -o root -g root -m 0644 wireguard-system.sources \
+  /etc/apt/sources.list.d/wireguard-system.sources
+sudo apt update
+sudo apt install wireguard-system</pre>
+</body>
+</html>

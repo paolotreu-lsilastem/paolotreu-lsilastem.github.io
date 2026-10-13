@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://paolotreu-lsilastem.github.io/apt
+Suites: bookworm-testing
+Components: main
+Architectures: amd64
+Signed-By: /usr/share/keyrings/wireguard-system-archive-keyring.gpg

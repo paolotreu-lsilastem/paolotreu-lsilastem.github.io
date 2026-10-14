@@ -1,18 +1,18 @@
 Package: wireguard-system
-Version: 0.1.0-13
+Version: 0.1.0-17
 Architecture: amd64
 Maintainer: WireGuard System maintainers
 X-WireGuard-System-Data-Schema: 1
-X-WireGuard-System-Upgrade-From: 0.1.0-12
+X-WireGuard-System-Upgrade-From: 0.1.0-15
 X-WireGuard-System-Recovery-Protocol: 1
 Depends: python3 (>= 3.11), adduser, wireguard-tools, iproute2, nftables, age (>= 1.1), caddy (>= 2.6), systemd (>= 252)
 Priority: optional
 Section: admin
-Filename: pool/main/w/wireguard-system/wireguard-system_0.1.0-13_amd64.deb
-Size: 5153252
-SHA256: 96e4714546b682230274ceff85297c6041d9b6a2f40d166e17945aa6f7a2e3e6
-SHA1: 6f9772b9ae69aa2ca9bf9f32b1a1522bb2ac7741
-MD5sum: 41708be59a7c70c63e6bc8d08fd01100
+Filename: pool/main/w/wireguard-system/wireguard-system_0.1.0-17_amd64.deb
+Size: 5185320
+SHA256: 2ecfbd13ac6eeba46ba984ad21a01b175701f9c47e99987cb57a9ee81fe8a4c4
+SHA1: 8fdd78ea4d5cd47b1bb699dcb294f59dd444f331
+MD5sum: 947a326a0c3ea42292f9dee7722ec028
 Description: file-backed multi-tenant WireGuard management portal
  Flask portal and isolated privileged helper for managing independent hub-and-spoke
  WireGuard networks without a database. Includes a private, hash-locked Python payload,

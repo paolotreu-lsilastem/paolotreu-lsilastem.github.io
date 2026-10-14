@@ -2,19 +2,19 @@ Origin: WireGuard System
 Label: WireGuard System Testing
 Suite: testing
 Codename: bookworm-testing
-Date: Tue, 13 Oct 2026 13:31:12 UTC
+Date: Wed, 14 Oct 2026 17:42:14 UTC
 Architectures: amd64
 Components: main
 Description: WireGuard System signed technical candidates
 MD5Sum:
- e6fd7f65ab98bdc38df3077b1dcf35b7 932 main/binary-amd64/Packages
- 7ac89b04c81d587d174969cb43eba331 594 main/binary-amd64/Packages.gz
+ 80508063122977a1fb60d39d85eed99f 932 main/binary-amd64/Packages
+ 7947783a0e0a0b36aef62563ddd93518 593 main/binary-amd64/Packages.gz
  add73b846c5e2f6a5e24326cf3b3f87c 168 main/binary-amd64/Release
 SHA1:
- 86c5cd57035cad0f4dee3032e9423fee9804590a 932 main/binary-amd64/Packages
- 990041cff1ea955e4ab0d32b28ae662037cd05fc 594 main/binary-amd64/Packages.gz
+ 010fa2aa59452459f7e2124fb27d00a64f4499be 932 main/binary-amd64/Packages
+ e03c6f660dfab4c31f2c8e4b492635aac2f6e168 593 main/binary-amd64/Packages.gz
  7b3cb366216634d676df6b460585335e34a828ac 168 main/binary-amd64/Release
 SHA256:
- b17a18ebac71374a849b9041c0f3e059484acf8fa7bc4fef0d29ce9f414cf9b4 932 main/binary-amd64/Packages
- eacb7101ec62fdcbfd5f69a484015ec0b2daaa8347cb8e693acf9ed934150caa 594 main/binary-amd64/Packages.gz
+ 6729657103b7bbf78b05300be8868d72e04d180358533f7d77587eefa5e97b12 932 main/binary-amd64/Packages
+ 94be854aeae0d723214fffed1e0ebc30224c4a5a51e3533ab774dccf504b4a90 593 main/binary-amd64/Packages.gz
  579ae0f7a11d5cbc037ee5eea1bfc606cd87be19a98502c94787df56de37872a 168 main/binary-amd64/Release

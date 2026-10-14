@@ -2,15 +2,16 @@
   "distribution": "bookworm-testing",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "PUBLIC-SHA256SUMS": "b1d6f5b47e5806482174bbb3416c8ae184b2a8a469d9181783cd4c58b0c9a9ad",
-    "dists/bookworm-testing/InRelease": "7a75050936e1503d80de2416071ab280118c39b9e36c833631e78c02a1f8a7dc",
-    "dists/bookworm-testing/Release": "69305f01688f92f2d534119ca74be4e8b3f65091e49609bc8bcbf6666abb1b5d",
-    "dists/bookworm-testing/Release.gpg": "73993e509bdf94fe4920235d4657f7324b8cc3a77f77495ba80b7aedef353dc7",
-    "dists/bookworm-testing/main/binary-amd64/Packages": "b17a18ebac71374a849b9041c0f3e059484acf8fa7bc4fef0d29ce9f414cf9b4",
-    "dists/bookworm-testing/main/binary-amd64/Packages.gz": "eacb7101ec62fdcbfd5f69a484015ec0b2daaa8347cb8e693acf9ed934150caa",
+    "PUBLIC-SHA256SUMS": "0167ec309feb8213a3d9d0dde57fcaddaf700553a338610605cb9e67bd3947dd",
+    "dists/bookworm-testing/InRelease": "0f499d21e227a12d5427f8582b9fb7c9e5a6962933162bfd04f2ca608eabca39",
+    "dists/bookworm-testing/Release": "c06134439e448ae69b9523f5d3cdbb1f178d0900c3a4c56c9d47767b581ecd60",
+    "dists/bookworm-testing/Release.gpg": "28ac9f0a448b356900419ddc6911a25dac2955d1c91c092518cfc60bb7d0ed24",
+    "dists/bookworm-testing/main/binary-amd64/Packages": "6729657103b7bbf78b05300be8868d72e04d180358533f7d77587eefa5e97b12",
+    "dists/bookworm-testing/main/binary-amd64/Packages.gz": "94be854aeae0d723214fffed1e0ebc30224c4a5a51e3533ab774dccf504b4a90",
     "dists/bookworm-testing/main/binary-amd64/Release": "579ae0f7a11d5cbc037ee5eea1bfc606cd87be19a98502c94787df56de37872a",
     "index.html": "b6eb34b63f5cef6e1ba7969c2d6f36df7b76c51247b7f4a72e0c78c05cc8ce99",
     "pool/main/w/wireguard-system/wireguard-system_0.1.0-13_amd64.deb": "96e4714546b682230274ceff85297c6041d9b6a2f40d166e17945aa6f7a2e3e6",
+    "pool/main/w/wireguard-system/wireguard-system_0.1.0-17_amd64.deb": "2ecfbd13ac6eeba46ba984ad21a01b175701f9c47e99987cb57a9ee81fe8a4c4",
     "wireguard-system-archive-key.fingerprint": "e23b0981e1d8b1f5085bea6fe522188306affb4101938733ac73a55017a0abad",
     "wireguard-system-archive-keyring.gpg": "214b8770f5dfec9882455e80753656d5489eba3237826ee480f102ae4d79f2d7",
     "wireguard-system.sources": "d5db386c573e0a7dc511df0bbfb62a5a470fffb480c56a62b149d6fd3390b00f"
@@ -19,8 +20,8 @@
   "package": {
     "architecture": "amd64",
     "name": "wireguard-system",
-    "sha256": "96e4714546b682230274ceff85297c6041d9b6a2f40d166e17945aa6f7a2e3e6",
-    "version": "0.1.0-13"
+    "sha256": "2ecfbd13ac6eeba46ba984ad21a01b175701f9c47e99987cb57a9ee81fe8a4c4",
+    "version": "0.1.0-17"
   },
   "public_url": "https://paolotreu-lsilastem.github.io/apt",
   "repository_fingerprint": "2B3CFA6779E395C0CDA208B7AE7A30DC2F970ACF",

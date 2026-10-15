@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: WireGuard System
+Label: WireGuard System
+Architecture: amd64
+Description: WireGuard System v1 stable packages

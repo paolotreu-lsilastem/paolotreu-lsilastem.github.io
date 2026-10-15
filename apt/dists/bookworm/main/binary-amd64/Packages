@@ -1,0 +1,34 @@
+Package: wireguard-system
+Version: 0.1.0-20
+Architecture: amd64
+Maintainer: WireGuard System maintainers
+X-WireGuard-System-Data-Schema: 1
+X-WireGuard-System-Upgrade-From: 0.1.0-17
+X-WireGuard-System-Recovery-Protocol: 1
+Depends: python3 (>= 3.11), python3 (<< 3.12), adduser, wireguard-tools, iproute2, nftables, age (>= 1.1), caddy (>= 2.6), systemd (>= 252)
+Priority: optional
+Section: admin
+Filename: pool/main/w/wireguard-system/wireguard-system_0.1.0-20_amd64.deb
+Size: 5254100
+SHA256: bfaca53d1a332f81df56c93fbed83131638ee83021e1a061700ae4e3ed1be891
+SHA1: f3f591cd9a6d3d38abab89dd9c923eac83dfcc37
+MD5sum: 52a3407d705eb5e63a42b487b4b4bdb2
+Description: file-backed multi-tenant WireGuard management portal
+ Flask portal and isolated privileged helper for managing independent hub-and-spoke
+ WireGuard networks without a database. Includes a private, hash-locked Python payload,
+ hardened systemd units and a Caddy HTTPS reference configuration.
+
+Package: wireguard-system-archive-keyring
+Version: 2026.10.15-1
+Architecture: all
+Maintainer: WireGuard System Maintainers
+Priority: optional
+Section: admin
+Filename: pool/main/w/wireguard-system-archive-keyring/wireguard-system-archive-keyring_2026.10.15-1_all.deb
+Size: 1320
+SHA256: 305100cf1a6fa51f299c2cb6c02c3e0d8862a0e4b0d56ab56b48e1b9fc59ba54
+SHA1: e3481a9da490386ec9750c0e2bc5e777af5d54cb
+MD5sum: fb6ab89c9414bbe56c50498a62b347f2
+Description: APT archive trust anchors for WireGuard System
+ Installs the public OpenPGP keys used to authenticate the WireGuard System APT archive.
+

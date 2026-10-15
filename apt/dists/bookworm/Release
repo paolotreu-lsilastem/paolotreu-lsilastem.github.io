@@ -1,0 +1,20 @@
+Origin: WireGuard System
+Label: WireGuard System
+Suite: stable
+Codename: bookworm
+Date: Thu, 15 Oct 2026 16:47:36 UTC
+Architectures: amd64
+Components: main
+Description: WireGuard System v1 stable packages
+MD5Sum:
+ 8ae21cc1103497cb3373f165190d983e 1539 main/binary-amd64/Packages
+ b6b02e811637204a2d2f71ee952be082 827 main/binary-amd64/Packages.gz
+ 1d9648b4949175a111c3fa2b6c20780c 150 main/binary-amd64/Release
+SHA1:
+ 642d56cfaf71f8a5f163f132c021ddb679508d48 1539 main/binary-amd64/Packages
+ d93a3dfb4ebf1d92128a09bebaba815c94a2fcea 827 main/binary-amd64/Packages.gz
+ f60c73955299d0aa0e37fc127c44b43808b66e23 150 main/binary-amd64/Release
+SHA256:
+ 58526ca4e966e520efbaad5f9b578a0fd43ab1b808a38f98ee0a636d4c7a2f41 1539 main/binary-amd64/Packages
+ 51082b06441a05848c1ba77b108479a95b8d3b1045e25d64520b9ec515e2d606 827 main/binary-amd64/Packages.gz
+ 968158480c58db07dc0da056f0a7b3f440ca7ea9e480317a02b8ba751a7e2365 150 main/binary-amd64/Release
